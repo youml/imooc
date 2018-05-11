@@ -18,6 +18,29 @@ public class Initial {
         
         ip1.playGame();
         ip2.playGame();
+        
+        IPlayGame ip3 = new IPlayGame() {
+            
+            @Override
+            public void playGame() {
+                // TODO Auto-generated method stub
+                System.out.println("使用匿名内部类的方式实现接口");
+            }
+        };
+        
+        ip3.playGame();
+        
+        new IPlayGame() {
+            
+            @Override
+            public void playGame() {
+                // TODO Auto-generated method stub
+                System.out.println("使用匿名内部类的方式实现接口2");
+            }
+        }.playGame();
+        
+        
+        
     }
 
 }
