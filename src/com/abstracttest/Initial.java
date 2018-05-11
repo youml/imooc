@@ -13,6 +13,11 @@ public class Initial {
         tel2.call();
         tel2.message();
         
+        IPlayGame ip1 = new SmartPhone();
+        IPlayGame ip2 = new Psp();
+        
+        ip1.playGame();
+        ip2.playGame();
     }
 
 }
