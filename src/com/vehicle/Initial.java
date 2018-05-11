@@ -3,7 +3,6 @@ package com.vehicle;
 public class Initial {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub        
         Vehicle bus = new Bus();
         Vehicle train = new Train();
         Vehicle aeroplane = new Aeroplane();
