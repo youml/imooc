@@ -10,4 +10,4 @@ public class DrunkException extends Exception{
         super(message);
     }
 
-}
+} 
