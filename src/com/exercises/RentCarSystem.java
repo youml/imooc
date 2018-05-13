@@ -13,7 +13,7 @@ public class RentCarSystem {
             return num;
        } catch (Exception e) {
            // TODO: handle exception
-           //System.out.println("00000");
+           System.out.println("00000");
            return -1;
        }
     }
