@@ -1,14 +1,14 @@
 # imooc
-com.vehicle涓嬮潰鐨勬槸java绗簩瀛�4.1鐨勭粌涔犻
+com.vehicle下面的是java第二季4.1的练习题
 
-com.abstracttest java绗簩瀛ｆ帴鍙ｈ涓婄殑璁查
+com.abstracttest java第二季接口课上的讲题
 
-com.human 鎶借薄绫荤粌涔犻
+com.human 抽象类练习题
 
-com.imooc 绠�鍗曠殑璇惧爞涓婄被鐨勭粌涔�
+com.imooc 简单的课堂上类的练习
 
-com.shapetest java绗簩瀛ｅ浘褰㈢殑缁冧範棰�
+com.shapetest java第二季图形的练习题
 
-com.exercises 涓簀ava绗簩瀛ｇ患鍚堢粌涔� 绛旂瓟绉熻溅绯荤粺
+com.exercises 为java第二季综合练习 答答租车系统
 
 com.exceptiontest java第三季 异常练习
